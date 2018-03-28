@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "peng_glow2",
+    "texture": "assets/resources/textures/images/efx/peng_glow2.png",
+    "rect": [
+      0,
+      0,
+      256,
+      249
+    ],
+    "offset": [
+      0,
+      3.5
+    ],
+    "originalSize": [
+      256,
+      256
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "kuang",
+    "texture": "assets/resources/textures/wrapper/login.png",
+    "rect": [
+      1763,
+      689,
+      42,
+      40
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      42,
+      40
+    ]
+  }
+}

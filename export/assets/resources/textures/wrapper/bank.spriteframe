@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bank",
+    "texture": "assets/resources/textures/wrapper/bank.png",
+    "rect": [
+      0,
+      0,
+      512,
+      512
+    ],
+    "offset": [
+      0,
+      768
+    ],
+    "originalSize": [
+      512,
+      2048
+    ]
+  }
+}

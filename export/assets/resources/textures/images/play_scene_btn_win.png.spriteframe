@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_win",
+    "texture": "assets/resources/textures/images/play_scene.png",
+    "rect": [
+      1348,
+      120,
+      126,
+      128
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      126,
+      128
+    ]
+  }
+}

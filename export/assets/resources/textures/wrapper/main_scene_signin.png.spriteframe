@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "signin",
+    "texture": "assets/resources/textures/wrapper/main_scene.png",
+    "rect": [
+      919,
+      2,
+      95,
+      104
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      95,
+      104
+    ]
+  }
+}

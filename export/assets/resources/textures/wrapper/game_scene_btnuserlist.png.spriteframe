@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btnuserlist",
+    "texture": "assets/resources/textures/wrapper/game_scene.png",
+    "rect": [
+      1884,
+      1299,
+      40,
+      145
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      40,
+      145
+    ],
+    "rotated": 1
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "chat_emoji",
+    "texture": "assets/resources/textures/chat/chat_emoji.png",
+    "rect": [
+      0,
+      0,
+      419,
+      52
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      419,
+      52
+    ]
+  }
+}

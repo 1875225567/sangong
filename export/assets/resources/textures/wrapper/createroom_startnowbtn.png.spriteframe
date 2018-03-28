@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "startnowbtn",
+    "texture": "assets/resources/textures/wrapper/createroom.png",
+    "rect": [
+      2,
+      189,
+      451,
+      181
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      451,
+      181
+    ]
+  }
+}

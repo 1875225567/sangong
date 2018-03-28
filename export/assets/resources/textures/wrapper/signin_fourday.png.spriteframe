@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fourday",
+    "texture": "assets/resources/textures/wrapper/signin.png",
+    "rect": [
+      392,
+      336,
+      78,
+      81
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      78,
+      81
+    ],
+    "rotated": 1
+  }
+}

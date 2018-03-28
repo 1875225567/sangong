@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "laizi_bg",
+    "texture": "assets/resources/textures/images/play_scene.png",
+    "rect": [
+      1594,
+      48,
+      87,
+      88
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      87,
+      88
+    ],
+    "rotated": 1
+  }
+}

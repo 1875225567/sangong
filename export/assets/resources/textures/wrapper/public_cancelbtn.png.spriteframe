@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "cancelbtn",
+    "texture": "assets/resources/textures/wrapper/public.png",
+    "rect": [
+      1928,
+      664,
+      223,
+      92
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      223,
+      92
+    ],
+    "rotated": 1
+  }
+}

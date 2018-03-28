@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "indialbg",
+    "texture": "assets/resources/textures/wrapper/dial.png",
+    "rect": [
+      2,
+      476,
+      515,
+      159
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      515,
+      159
+    ]
+  }
+}

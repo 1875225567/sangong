@@ -1,0 +1,91 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "ignis",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1.125,
+  "sample": 16,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": "assets/resources/textures/anims/ignis/ignis_0.spriteframe"
+          },
+          {
+            "frame": 0.0625,
+            "value": "assets/resources/textures/anims/ignis/ignis_1.spriteframe"
+          },
+          {
+            "frame": 0.125,
+            "value": "assets/resources/textures/anims/ignis/ignis_2.spriteframe"
+          },
+          {
+            "frame": 0.1875,
+            "value": "assets/resources/textures/anims/ignis/ignis_3.spriteframe"
+          },
+          {
+            "frame": 0.25,
+            "value": "assets/resources/textures/anims/ignis/ignis_4.spriteframe"
+          },
+          {
+            "frame": 0.3125,
+            "value": "assets/resources/textures/anims/ignis/ignis_5.spriteframe"
+          },
+          {
+            "frame": 0.375,
+            "value": "assets/resources/textures/anims/ignis/ignis_6.spriteframe"
+          },
+          {
+            "frame": 0.4375,
+            "value": "assets/resources/textures/anims/ignis/ignis_7.spriteframe"
+          },
+          {
+            "frame": 0.5,
+            "value": "assets/resources/textures/anims/ignis/ignis_8.spriteframe"
+          },
+          {
+            "frame": 0.5625,
+            "value": "assets/resources/textures/anims/ignis/ignis_9.spriteframe"
+          },
+          {
+            "frame": 0.625,
+            "value": "assets/resources/textures/anims/ignis/ignis_10.spriteframe"
+          },
+          {
+            "frame": 0.6875,
+            "value": "assets/resources/textures/anims/ignis/ignis_11.spriteframe"
+          },
+          {
+            "frame": 0.75,
+            "value": "assets/resources/textures/anims/ignis/ignis_12.spriteframe"
+          },
+          {
+            "frame": 0.8125,
+            "value": "assets/resources/textures/anims/ignis/ignis_13.spriteframe"
+          },
+          {
+            "frame": 0.875,
+            "value": "assets/resources/textures/anims/ignis/ignis_14.spriteframe"
+          },
+          {
+            "frame": 0.9375,
+            "value": "assets/resources/textures/anims/ignis/ignis_15.spriteframe"
+          },
+          {
+            "frame": 1,
+            "value": "assets/resources/textures/anims/ignis/ignis_16.spriteframe"
+          },
+          {
+            "frame": 1.0625,
+            "value": "assets/resources/textures/anims/ignis/ignis_17.spriteframe"
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

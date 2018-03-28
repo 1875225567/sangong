@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "whitebackground",
+    "texture": "assets/resources/textures/setting/whitebackground.png",
+    "rect": [
+      0,
+      0,
+      594,
+      111
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      594,
+      111
+    ]
+  }
+}

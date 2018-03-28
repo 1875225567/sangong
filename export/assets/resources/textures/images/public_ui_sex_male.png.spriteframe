@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sex_male",
+    "texture": "assets/resources/textures/images/public_ui.png",
+    "rect": [
+      892,
+      155,
+      45,
+      46
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      45,
+      46
+    ]
+  }
+}

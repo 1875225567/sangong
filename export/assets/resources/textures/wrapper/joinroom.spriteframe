@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "joinroom",
+    "texture": "assets/resources/textures/wrapper/joinroom.png",
+    "rect": [
+      0,
+      0,
+      256,
+      1024
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      256,
+      1024
+    ]
+  }
+}

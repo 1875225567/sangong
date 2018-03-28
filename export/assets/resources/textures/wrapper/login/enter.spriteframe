@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "enter",
+    "texture": "assets/resources/textures/wrapper/login/enter.png",
+    "rect": [
+      0,
+      0,
+      377,
+      44
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      377,
+      44
+    ]
+  }
+}

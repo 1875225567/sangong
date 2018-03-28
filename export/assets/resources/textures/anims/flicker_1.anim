@@ -1,0 +1,47 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "flicker_1",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1.1666666666666667,
+  "sample": 6,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": "assets/resources/textures/anims/flicker/image-7.spriteframe"
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": "assets/resources/textures/anims/flicker/image-1.spriteframe"
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": "assets/resources/textures/anims/flicker/image-2.spriteframe"
+          },
+          {
+            "frame": 0.5,
+            "value": "assets/resources/textures/anims/flicker/image-3.spriteframe"
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": "assets/resources/textures/anims/flicker/image-4.spriteframe"
+          },
+          {
+            "frame": 0.8333333333333334,
+            "value": "assets/resources/textures/anims/flicker/image-5.spriteframe"
+          },
+          {
+            "frame": 1,
+            "value": "assets/resources/textures/anims/flicker/image-6.spriteframe"
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

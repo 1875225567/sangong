@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xzw-3",
+    "texture": "assets/resources/textures/wrapper/game_scene.png",
+    "rect": [
+      1270,
+      1061,
+      104,
+      66
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      104,
+      66
+    ],
+    "rotated": 1
+  }
+}

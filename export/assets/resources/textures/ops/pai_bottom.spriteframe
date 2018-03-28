@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pai_bottom",
+    "texture": "assets/resources/textures/ops/pai_bottom.png",
+    "rect": [
+      0,
+      0,
+      230,
+      101
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      230,
+      101
+    ]
+  }
+}

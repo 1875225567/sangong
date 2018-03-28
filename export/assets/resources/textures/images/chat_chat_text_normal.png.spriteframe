@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "chat_text_normal",
+    "texture": "assets/resources/textures/images/chat.png",
+    "rect": [
+      597,
+      315,
+      114,
+      43
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      114,
+      43
+    ],
+    "rotated": 1
+  }
+}

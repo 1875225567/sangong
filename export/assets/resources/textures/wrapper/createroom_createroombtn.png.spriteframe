@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "createroombtn",
+    "texture": "assets/resources/textures/wrapper/createroom.png",
+    "rect": [
+      2,
+      2,
+      482,
+      185
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      482,
+      185
+    ]
+  }
+}

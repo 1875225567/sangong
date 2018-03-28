@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "record",
+    "texture": "assets/resources/textures/wrapper/record.png",
+    "rect": [
+      0,
+      0,
+      204,
+      252
+    ],
+    "offset": [
+      -26,
+      2
+    ],
+    "originalSize": [
+      256,
+      256
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "togglegroupbg",
+    "texture": "assets/resources/textures/wrapper/roomselect.png",
+    "rect": [
+      653,
+      360,
+      37,
+      37
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      37,
+      37
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gamegold",
+    "texture": "assets/resources/textures/wrapper/public.png",
+    "rect": [
+      1985,
+      931,
+      40,
+      34
+    ],
+    "offset": [
+      0,
+      -1
+    ],
+    "originalSize": [
+      40,
+      40
+    ]
+  }
+}

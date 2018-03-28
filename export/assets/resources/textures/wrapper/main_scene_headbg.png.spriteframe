@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "headbg",
+    "texture": "assets/resources/textures/wrapper/main_scene.png",
+    "rect": [
+      896,
+      559,
+      84,
+      83
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      84,
+      83
+    ]
+  }
+}

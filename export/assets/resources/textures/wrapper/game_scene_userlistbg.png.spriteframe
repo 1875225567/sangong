@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "userlistbg",
+    "texture": "assets/resources/textures/wrapper/game_scene.png",
+    "rect": [
+      2,
+      1767,
+      250,
+      540
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      250,
+      540
+    ],
+    "rotated": 1
+  }
+}

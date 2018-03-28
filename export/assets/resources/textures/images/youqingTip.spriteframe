@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "youqingTip",
+    "texture": "assets/resources/textures/images/youqingTip.png",
+    "rect": [
+      2,
+      3,
+      398,
+      913
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      402,
+      918
+    ]
+  }
+}

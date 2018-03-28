@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>bigBorder.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{1059,405}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{1059,405}}</string>
+				<key>sourceSize</key>
+				<string>{1059,405}</string>
+			</dict>
+
+			<key>border.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,406},{273,48}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{273,48}}</string>
+				<key>sourceSize</key>
+				<string>{273,48}</string>
+			</dict>
+
+			<key>btn_invite.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1060,337},{100,108}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{100,108}}</string>
+				<key>sourceSize</key>
+				<string>{100,108}</string>
+			</dict>
+
+			<key>girl.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1060,0},{294,336}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{294,336}}</string>
+				<key>sourceSize</key>
+				<string>{294,336}</string>
+			</dict>
+
+			<key>mine.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{251,455},{191,34}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{191,34}}</string>
+				<key>sourceSize</key>
+				<string>{191,34}</string>
+			</dict>
+
+			<key>title.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{274,406},{105,34}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{105,34}}</string>
+				<key>sourceSize</key>
+				<string>{105,34}</string>
+			</dict>
+
+			<key>word.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,455},{250,27}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{250,27}}</string>
+				<key>sourceSize</key>
+				<string>{250,27}</string>
+			</dict>
+
+		</dict>
+
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>size</key>
+			<string>{2048,512}</string>
+			<key>textureFileName</key>
+			<string>invite_code.png</string>
+			</dict>
+		</dict>
+</plist>

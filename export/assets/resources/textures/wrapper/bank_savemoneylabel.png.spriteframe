@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "savemoneylabel",
+    "texture": "assets/resources/textures/wrapper/bank.png",
+    "rect": [
+      327,
+      151,
+      176,
+      44
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      176,
+      44
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "signinlabel",
+    "texture": "assets/resources/textures/wrapper/signin.png",
+    "rect": [
+      123,
+      353,
+      138,
+      67
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      138,
+      67
+    ],
+    "rotated": 1
+  }
+}

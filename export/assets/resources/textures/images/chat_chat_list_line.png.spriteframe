@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "chat_list_line",
+    "texture": "assets/resources/textures/images/chat.png",
+    "rect": [
+      534,
+      2,
+      465,
+      4
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      465,
+      4
+    ],
+    "rotated": 1
+  }
+}

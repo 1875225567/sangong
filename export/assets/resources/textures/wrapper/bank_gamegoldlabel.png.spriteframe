@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gamegoldlabel",
+    "texture": "assets/resources/textures/wrapper/bank.png",
+    "rect": [
+      327,
+      197,
+      175,
+      44
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      175,
+      44
+    ]
+  }
+}

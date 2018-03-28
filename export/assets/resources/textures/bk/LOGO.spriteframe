@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "LOGO",
+    "texture": "assets/resources/textures/bk/LOGO.png",
+    "rect": [
+      0,
+      0,
+      883,
+      228
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      883,
+      228
+    ]
+  }
+}

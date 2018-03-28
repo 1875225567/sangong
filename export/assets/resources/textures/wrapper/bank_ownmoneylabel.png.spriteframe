@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ownmoneylabel",
+    "texture": "assets/resources/textures/wrapper/bank.png",
+    "rect": [
+      327,
+      52,
+      180,
+      47
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      180,
+      47
+    ]
+  }
+}

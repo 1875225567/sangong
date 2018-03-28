@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jzshazi",
+    "texture": "assets/resources/textures/images/loading.png",
+    "rect": [
+      106,
+      2,
+      30,
+      31
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      30,
+      31
+    ]
+  }
+}

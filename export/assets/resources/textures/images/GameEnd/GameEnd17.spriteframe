@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "GameEnd17",
+    "texture": "assets/resources/textures/images/GameEnd/GameEnd17.png",
+    "rect": [
+      0,
+      0,
+      64,
+      44
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      64,
+      44
+    ]
+  }
+}

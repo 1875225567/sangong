@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "msg_bubble_left",
+    "texture": "assets/resources/textures/images/play_scene.png",
+    "rect": [
+      1565,
+      137,
+      64,
+      52
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      64,
+      52
+    ],
+    "rotated": 1
+  }
+}

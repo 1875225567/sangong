@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "cm-1",
+    "texture": "assets/resources/textures/wrapper/game_scene.png",
+    "rect": [
+      104,
+      1455,
+      100,
+      106
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      100,
+      106
+    ]
+  }
+}

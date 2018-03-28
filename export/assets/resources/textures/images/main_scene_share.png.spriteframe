@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "share",
+    "texture": "assets/resources/textures/images/main_scene.png",
+    "rect": [
+      710,
+      491,
+      117,
+      133
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      117,
+      133
+    ]
+  }
+}

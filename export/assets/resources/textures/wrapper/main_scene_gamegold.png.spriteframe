@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gamegold",
+    "texture": "assets/resources/textures/wrapper/main_scene.png",
+    "rect": [
+      866,
+      546,
+      28,
+      23
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      28,
+      23
+    ]
+  }
+}

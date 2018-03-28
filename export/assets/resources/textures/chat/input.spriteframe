@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "input",
+    "texture": "assets/resources/textures/chat/input.png",
+    "rect": [
+      0,
+      0,
+      660,
+      60
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      660,
+      60
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ensurebtn",
+    "texture": "assets/resources/textures/wrapper/public.png",
+    "rect": [
+      1936,
+      444,
+      218,
+      93
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      218,
+      93
+    ],
+    "rotated": 1
+  }
+}

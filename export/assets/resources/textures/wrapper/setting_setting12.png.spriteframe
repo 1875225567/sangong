@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "setting12",
+    "texture": "assets/resources/textures/wrapper/setting.png",
+    "rect": [
+      228,
+      2,
+      343,
+      26
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      343,
+      26
+    ],
+    "rotated": 1
+  }
+}

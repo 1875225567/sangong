@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "labelbj",
+    "texture": "assets/resources/textures/wrapper/chat.png",
+    "rect": [
+      576,
+      2,
+      396,
+      58
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      396,
+      58
+    ]
+  }
+}

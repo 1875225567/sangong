@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "emoji_btn_normal",
+    "texture": "assets/resources/textures/images/chat.png",
+    "rect": [
+      592,
+      2,
+      266,
+      50
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      266,
+      50
+    ],
+    "rotated": 1
+  }
+}

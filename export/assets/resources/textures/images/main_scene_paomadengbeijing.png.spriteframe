@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "paomadengbeijing",
+    "texture": "assets/resources/textures/images/main_scene.png",
+    "rect": [
+      672,
+      2,
+      716,
+      36
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      716,
+      36
+    ],
+    "rotated": 1
+  }
+}

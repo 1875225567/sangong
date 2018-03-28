@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "decision_sign_3",
+    "texture": "assets/resources/textures/images/play_scene.png",
+    "rect": [
+      976,
+      134,
+      124,
+      120
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      124,
+      120
+    ]
+  }
+}

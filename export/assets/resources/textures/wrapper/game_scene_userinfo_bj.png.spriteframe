@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "userinfo_bj",
+    "texture": "assets/resources/textures/wrapper/game_scene.png",
+    "rect": [
+      637,
+      1602,
+      112,
+      112
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      112,
+      112
+    ]
+  }
+}

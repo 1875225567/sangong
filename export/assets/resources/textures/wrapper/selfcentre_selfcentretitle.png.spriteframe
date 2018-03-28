@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "selfcentretitle",
+    "texture": "assets/resources/textures/wrapper/selfcentre.png",
+    "rect": [
+      447,
+      318,
+      205,
+      58
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      205,
+      58
+    ],
+    "rotated": 1
+  }
+}

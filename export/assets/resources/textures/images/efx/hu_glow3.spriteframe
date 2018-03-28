@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hu_glow3",
+    "texture": "assets/resources/textures/images/efx/hu_glow3.png",
+    "rect": [
+      0,
+      11,
+      240,
+      230
+    ],
+    "offset": [
+      -8,
+      2
+    ],
+    "originalSize": [
+      256,
+      256
+    ]
+  }
+}

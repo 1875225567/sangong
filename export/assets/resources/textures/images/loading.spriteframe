@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "loading",
+    "texture": "assets/resources/textures/images/loading.png",
+    "rect": [
+      2,
+      2,
+      134,
+      102
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      138,
+      106
+    ]
+  }
+}

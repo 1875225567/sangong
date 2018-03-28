@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "money_frame",
+    "texture": "assets/resources/textures/png/money_frame.png",
+    "rect": [
+      0,
+      0,
+      86,
+      27
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      86,
+      27
+    ]
+  }
+}

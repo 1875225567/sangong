@@ -1,0 +1,35 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "blink",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 5.2,
+  "sample": 5,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 2,
+            "value": "assets/resources/textures/wrapper/login/open.spriteframe"
+          },
+          {
+            "frame": 2.2,
+            "value": "assets/resources/textures/wrapper/login/close.spriteframe"
+          },
+          {
+            "frame": 2.4,
+            "value": "assets/resources/textures/wrapper/login/open.spriteframe"
+          },
+          {
+            "frame": 5,
+            "value": "assets/resources/textures/wrapper/login/close.spriteframe"
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

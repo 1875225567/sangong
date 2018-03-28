@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "userinfobg",
+    "texture": "assets/resources/textures/wrapper/main_scene.png",
+    "rect": [
+      830,
+      644,
+      427,
+      69
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      427,
+      69
+    ],
+    "rotated": 1
+  }
+}

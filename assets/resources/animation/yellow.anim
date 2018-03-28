@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "yellow",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1,
+  "sample": 2,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "a466020f-38fd-443f-8016-0b2772c1a8f3"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": null
+          }
+        ]
+      }
+    },
+    "props": {
+      "scaleY": [
+        {
+          "frame": 0,
+          "value": 0.85
+        }
+      ],
+      "scaleX": [
+        {
+          "frame": 0,
+          "value": 0.85
+        }
+      ],
+      "y": [
+        {
+          "frame": 0,
+          "value": 7
+        }
+      ],
+      "x": [
+        {
+          "frame": 0,
+          "value": -1
+        }
+      ]
+    }
+  },
+  "events": []
+}

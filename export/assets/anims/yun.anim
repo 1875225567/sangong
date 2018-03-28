@@ -1,0 +1,35 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "yun",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.5,
+  "sample": 8,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": "assets/resources/textures/chat/emoji_action_texture_yun0.png.spriteframe"
+          },
+          {
+            "frame": 0.125,
+            "value": "assets/resources/textures/chat/emoji_action_texture_yun1.png.spriteframe"
+          },
+          {
+            "frame": 0.25,
+            "value": "assets/resources/textures/chat/emoji_action_texture_yun2.png.spriteframe"
+          },
+          {
+            "frame": 0.375,
+            "value": "assets/resources/textures/chat/emoji_action_texture_yun3.png.spriteframe"
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

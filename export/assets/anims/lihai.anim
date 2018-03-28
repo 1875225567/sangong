@@ -1,0 +1,71 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "lihai",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 2.1666666666666665,
+  "sample": 6,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": "assets/resources/textures/chat/emoji_action_texture_lihai0.png.spriteframe"
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": "assets/resources/textures/chat/emoji_action_texture_lihai1.png.spriteframe"
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": "assets/resources/textures/chat/emoji_action_texture_lihai2.png.spriteframe"
+          },
+          {
+            "frame": 0.5,
+            "value": "assets/resources/textures/chat/emoji_action_texture_lihai3.png.spriteframe"
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": "assets/resources/textures/chat/emoji_action_texture_lihai4.png.spriteframe"
+          },
+          {
+            "frame": 0.8333333333333334,
+            "value": "assets/resources/textures/chat/emoji_action_texture_lihai5.png.spriteframe"
+          },
+          {
+            "frame": 1,
+            "value": "assets/resources/textures/chat/emoji_action_texture_lihai6.png.spriteframe"
+          },
+          {
+            "frame": 1.1666666666666667,
+            "value": "assets/resources/textures/chat/emoji_action_texture_lihai7.png.spriteframe"
+          },
+          {
+            "frame": 1.3333333333333333,
+            "value": "assets/resources/textures/chat/emoji_action_texture_lihai8.png.spriteframe"
+          },
+          {
+            "frame": 1.5,
+            "value": "assets/resources/textures/chat/emoji_action_texture_lihai9.png.spriteframe"
+          },
+          {
+            "frame": 1.6666666666666667,
+            "value": "assets/resources/textures/chat/emoji_action_texture_lihai10.png.spriteframe"
+          },
+          {
+            "frame": 1.8333333333333333,
+            "value": "assets/resources/textures/chat/emoji_action_texture_lihai11.png.spriteframe"
+          },
+          {
+            "frame": 2,
+            "value": "assets/resources/textures/chat/emoji_action_texture_lihai12.png.spriteframe"
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

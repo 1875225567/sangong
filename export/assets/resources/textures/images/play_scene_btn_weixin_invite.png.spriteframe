@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_weixin_invite",
+    "texture": "assets/resources/textures/images/play_scene.png",
+    "rect": [
+      1222,
+      48,
+      304,
+      70
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      304,
+      70
+    ]
+  }
+}

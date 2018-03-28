@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "yun3",
+    "texture": "assets/resources/textures/chat/emoji_action_texture.png",
+    "rect": [
+      384,
+      129,
+      128,
+      129
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      128,
+      129
+    ]
+  }
+}

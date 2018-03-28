@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "diamond_1",
+    "texture": "assets/resources/textures/wrapper/shop.png",
+    "rect": [
+      2,
+      487,
+      82,
+      41
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      82,
+      41
+    ]
+  }
+}

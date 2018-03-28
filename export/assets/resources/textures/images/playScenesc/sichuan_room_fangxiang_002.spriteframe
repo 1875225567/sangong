@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sichuan_room_fangxiang_002",
+    "texture": "assets/resources/textures/images/playScenesc/sichuan_room_fangxiang_002.png",
+    "rect": [
+      0,
+      0,
+      93,
+      21
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      93,
+      21
+    ]
+  }
+}

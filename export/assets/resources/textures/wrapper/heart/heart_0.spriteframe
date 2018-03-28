@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "heart_0",
+    "texture": "assets/resources/textures/wrapper/heart/heart_0.png",
+    "rect": [
+      0,
+      0,
+      120,
+      100
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      120,
+      100
+    ]
+  }
+}

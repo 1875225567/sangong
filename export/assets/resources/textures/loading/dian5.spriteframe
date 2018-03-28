@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dian5",
+    "texture": "assets/resources/textures/loading/dian5.png",
+    "rect": [
+      0,
+      0,
+      98,
+      18
+    ],
+    "offset": [
+      -9.5,
+      0
+    ],
+    "originalSize": [
+      117,
+      18
+    ]
+  }
+}

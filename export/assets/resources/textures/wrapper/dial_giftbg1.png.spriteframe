@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "giftbg1",
+    "texture": "assets/resources/textures/wrapper/dial.png",
+    "rect": [
+      2,
+      289,
+      889,
+      185
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      889,
+      185
+    ]
+  }
+}

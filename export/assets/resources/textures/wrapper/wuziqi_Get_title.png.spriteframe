@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Get_title",
+    "texture": "assets/resources/textures/wrapper/wuziqi.png",
+    "rect": [
+      97,
+      864,
+      344,
+      107
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      344,
+      107
+    ]
+  }
+}

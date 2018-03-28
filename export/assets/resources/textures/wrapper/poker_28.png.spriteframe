@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "28",
+    "texture": "assets/resources/textures/wrapper/poker.png",
+    "rect": [
+      214,
+      522,
+      104,
+      136
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      104,
+      136
+    ]
+  }
+}

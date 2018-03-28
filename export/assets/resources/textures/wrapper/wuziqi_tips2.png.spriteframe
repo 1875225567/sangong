@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tips2",
+    "texture": "assets/resources/textures/wrapper/wuziqi.png",
+    "rect": [
+      405,
+      754,
+      302,
+      61
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      302,
+      61
+    ]
+  }
+}

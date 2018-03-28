@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "diallabel",
+    "texture": "assets/resources/textures/wrapper/dial.png",
+    "rect": [
+      381,
+      637,
+      204,
+      59
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      204,
+      59
+    ],
+    "rotated": 1
+  }
+}

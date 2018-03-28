@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "labelbj",
+    "texture": "assets/resources/textures/wrapper/game_result.png",
+    "rect": [
+      2,
+      516,
+      1129,
+      107
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1129,
+      107
+    ],
+    "rotated": 1
+  }
+}

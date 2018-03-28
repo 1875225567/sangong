@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "wanfa",
+    "texture": "assets/resources/textures/wrapper/game_scene.png",
+    "rect": [
+      1952,
+      728,
+      84,
+      88
+    ],
+    "offset": [
+      0,
+      1
+    ],
+    "originalSize": [
+      84,
+      90
+    ],
+    "rotated": 1
+  }
+}

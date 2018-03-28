@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "currencybg",
+    "texture": "assets/resources/textures/wrapper/main_scene.png",
+    "rect": [
+      916,
+      108,
+      104,
+      19
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      104,
+      19
+    ]
+  }
+}

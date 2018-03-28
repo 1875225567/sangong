@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "showcard",
+    "texture": "assets/resources/textures/wrapper/state/showcard.png",
+    "rect": [
+      0,
+      0,
+      166,
+      51
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      166,
+      51
+    ]
+  }
+}

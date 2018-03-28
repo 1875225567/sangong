@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_create_room",
+    "texture": "assets/resources/textures/bk/btn_create_room.png",
+    "rect": [
+      0,
+      0,
+      383,
+      159
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      383,
+      159
+    ]
+  }
+}

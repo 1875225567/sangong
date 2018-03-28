@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "roominfo",
+    "texture": "assets/resources/textures/wrapper/game_scene.png",
+    "rect": [
+      1063,
+      754,
+      221,
+      97
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      221,
+      97
+    ]
+  }
+}

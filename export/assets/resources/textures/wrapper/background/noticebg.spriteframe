@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "noticebg",
+    "texture": "assets/resources/textures/wrapper/background/noticebg.png",
+    "rect": [
+      0,
+      0,
+      597,
+      563
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      597,
+      563
+    ]
+  }
+}

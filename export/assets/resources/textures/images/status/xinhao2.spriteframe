@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xinhao2",
+    "texture": "assets/resources/textures/images/status/xinhao2.png",
+    "rect": [
+      0,
+      0,
+      48,
+      42
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      48,
+      42
+    ]
+  }
+}

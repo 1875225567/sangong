@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gamepropsbg1",
+    "texture": "assets/resources/textures/wrapper/dial.png",
+    "rect": [
+      653,
+      840,
+      161,
+      162
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      161,
+      162
+    ],
+    "rotated": 1
+  }
+}

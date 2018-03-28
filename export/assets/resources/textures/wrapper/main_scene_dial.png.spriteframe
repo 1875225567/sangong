@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dial",
+    "texture": "assets/resources/textures/wrapper/main_scene.png",
+    "rect": [
+      754,
+      462,
+      108,
+      110
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      108,
+      110
+    ],
+    "rotated": 1
+  }
+}

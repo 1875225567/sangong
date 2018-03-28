@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ignis_2",
+    "texture": "assets/resources/textures/anims/ignis/AutoAtlas-2.png",
+    "rect": [
+      2,
+      306,
+      300,
+      300
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      300,
+      300
+    ]
+  }
+}

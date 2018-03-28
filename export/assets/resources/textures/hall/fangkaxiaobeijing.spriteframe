@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fangkaxiaobeijing",
+    "texture": "assets/resources/textures/hall/fangkaxiaobeijing.png",
+    "rect": [
+      0,
+      0,
+      255,
+      45
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      255,
+      45
+    ],
+    "capInsets": [
+      25,
+      20,
+      25,
+      20
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "roomselect",
+    "texture": "assets/resources/textures/wrapper/roomselect.png",
+    "rect": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "offset": [
+      0,
+      512
+    ],
+    "originalSize": [
+      1024,
+      2048
+    ]
+  }
+}

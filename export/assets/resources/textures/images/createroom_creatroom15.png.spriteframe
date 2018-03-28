@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "creatroom15",
+    "texture": "assets/resources/textures/images/createroom.png",
+    "rect": [
+      848,
+      58,
+      82,
+      40
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      82,
+      40
+    ]
+  }
+}

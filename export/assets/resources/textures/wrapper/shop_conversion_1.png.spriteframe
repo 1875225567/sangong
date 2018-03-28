@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "conversion_1",
+    "texture": "assets/resources/textures/wrapper/shop.png",
+    "rect": [
+      95,
+      444,
+      91,
+      41
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      91,
+      41
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "selectdown1",
+    "texture": "assets/resources/textures/wrapper/chat.png",
+    "rect": [
+      576,
+      130,
+      66,
+      258
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      66,
+      258
+    ],
+    "rotated": 1
+  }
+}

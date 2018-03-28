@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "scorelabel",
+    "texture": "assets/resources/textures/wrapper/game_result.png",
+    "rect": [
+      170,
+      48,
+      48,
+      50
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      48,
+      50
+    ],
+    "rotated": 1
+  }
+}

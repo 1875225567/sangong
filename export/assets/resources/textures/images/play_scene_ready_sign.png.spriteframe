@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ready_sign",
+    "texture": "assets/resources/textures/images/play_scene.png",
+    "rect": [
+      540,
+      179,
+      62,
+      75
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      62,
+      75
+    ]
+  }
+}

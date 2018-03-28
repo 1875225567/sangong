@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "v2",
+    "texture": "assets/resources/textures/voice/v2.png",
+    "rect": [
+      20,
+      125,
+      31,
+      35
+    ],
+    "offset": [
+      -24.5,
+      -52.5
+    ],
+    "originalSize": [
+      120,
+      180
+    ]
+  }
+}

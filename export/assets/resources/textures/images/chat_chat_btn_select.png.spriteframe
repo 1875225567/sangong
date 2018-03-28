@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "chat_btn_select",
+    "texture": "assets/resources/textures/images/chat.png",
+    "rect": [
+      748,
+      2,
+      263,
+      50
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      263,
+      50
+    ],
+    "rotated": 1
+  }
+}

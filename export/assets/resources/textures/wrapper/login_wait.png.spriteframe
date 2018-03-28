@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "wait",
+    "texture": "assets/resources/textures/wrapper/login.png",
+    "rect": [
+      1658,
+      1341,
+      188,
+      181
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      188,
+      181
+    ]
+  }
+}

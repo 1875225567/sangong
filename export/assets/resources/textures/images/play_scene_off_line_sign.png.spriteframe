@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "off_line_sign",
+    "texture": "assets/resources/textures/images/play_scene.png",
+    "rect": [
+      50,
+      212,
+      63,
+      41
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      63,
+      41
+    ]
+  }
+}

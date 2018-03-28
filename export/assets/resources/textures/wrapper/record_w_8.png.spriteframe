@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "w_8",
+    "texture": "assets/resources/textures/wrapper/record.png",
+    "rect": [
+      124,
+      185,
+      25,
+      41
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      32,
+      50
+    ]
+  }
+}

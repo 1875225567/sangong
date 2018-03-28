@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "labelbj",
+    "texture": "assets/resources/textures/wrapper/shop.png",
+    "rect": [
+      199,
+      293,
+      160,
+      43
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      160,
+      43
+    ],
+    "rotated": 1
+  }
+}

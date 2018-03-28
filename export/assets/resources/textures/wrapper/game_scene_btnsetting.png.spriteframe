@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btnsetting",
+    "texture": "assets/resources/textures/wrapper/game_scene.png",
+    "rect": [
+      1955,
+      94,
+      84,
+      90
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      84,
+      90
+    ],
+    "rotated": 1
+  }
+}

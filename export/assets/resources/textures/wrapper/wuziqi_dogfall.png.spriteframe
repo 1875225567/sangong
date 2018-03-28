@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dogfall",
+    "texture": "assets/resources/textures/wrapper/wuziqi.png",
+    "rect": [
+      2,
+      974,
+      479,
+      110
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      479,
+      110
+    ],
+    "rotated": 1
+  }
+}

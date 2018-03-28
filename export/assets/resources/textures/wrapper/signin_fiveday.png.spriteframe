@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fiveday",
+    "texture": "assets/resources/textures/wrapper/signin.png",
+    "rect": [
+      385,
+      416,
+      78,
+      81
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      78,
+      81
+    ]
+  }
+}

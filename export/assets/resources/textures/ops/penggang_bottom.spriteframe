@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "penggang_bottom",
+    "texture": "assets/resources/textures/ops/penggang_bottom.png",
+    "rect": [
+      0,
+      0,
+      74,
+      70
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      74,
+      70
+    ]
+  }
+}

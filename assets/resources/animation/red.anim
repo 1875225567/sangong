@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "red",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1,
+  "sample": 2,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "76b9a4c2-29d1-4d3d-910d-bb5e9c33614c"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": null
+          }
+        ]
+      }
+    },
+    "props": {
+      "scaleY": [
+        {
+          "frame": 0,
+          "value": 0.85
+        }
+      ],
+      "scaleX": [
+        {
+          "frame": 0,
+          "value": 0.85
+        }
+      ],
+      "y": [
+        {
+          "frame": 0,
+          "value": 7
+        }
+      ]
+    }
+  },
+  "events": []
+}

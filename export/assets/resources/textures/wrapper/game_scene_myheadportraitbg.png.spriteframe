@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "myheadportraitbg",
+    "texture": "assets/resources/textures/wrapper/game_scene.png",
+    "rect": [
+      1884,
+      1541,
+      224,
+      128
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      224,
+      128
+    ],
+    "rotated": 1,
+    "capInsets": [
+      24,
+      24,
+      24,
+      24
+    ]
+  }
+}

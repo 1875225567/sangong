@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btninvitation",
+    "texture": "assets/resources/textures/wrapper/game_scene.png",
+    "rect": [
+      1884,
+      958,
+      154,
+      61
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      154,
+      61
+    ]
+  }
+}

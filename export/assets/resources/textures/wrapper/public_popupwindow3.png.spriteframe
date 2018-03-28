@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "popupwindow3",
+    "texture": "assets/resources/textures/wrapper/public.png",
+    "rect": [
+      1185,
+      2,
+      749,
+      555
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      749,
+      555
+    ]
+  }
+}

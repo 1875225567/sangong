@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "titile",
+    "texture": "assets/resources/textures/wrapper/method/titile.png",
+    "rect": [
+      0,
+      0,
+      132,
+      58
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      132,
+      58
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "musiclabel",
+    "texture": "assets/resources/textures/images/setting.png",
+    "rect": [
+      426,
+      498,
+      53,
+      30
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      53,
+      30
+    ]
+  }
+}

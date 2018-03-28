@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gou",
+    "texture": "assets/resources/textures/wrapper/login/gou.png",
+    "rect": [
+      0,
+      0,
+      42,
+      45
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      42,
+      45
+    ]
+  }
+}

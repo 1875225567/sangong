@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gobang",
+    "texture": "assets/resources/textures/wrapper/main_scene.png",
+    "rect": [
+      754,
+      315,
+      145,
+      160
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      145,
+      160
+    ],
+    "rotated": 1
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "touchk",
+    "texture": "assets/resources/textures/wrapper/selfcentre.png",
+    "rect": [
+      447,
+      631,
+      211,
+      42
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      211,
+      42
+    ],
+    "rotated": 1
+  }
+}

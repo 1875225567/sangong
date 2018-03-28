@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "notice",
+    "texture": "assets/resources/textures/bk/notice.png",
+    "rect": [
+      0,
+      0,
+      390,
+      450
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      390,
+      450
+    ]
+  }
+}

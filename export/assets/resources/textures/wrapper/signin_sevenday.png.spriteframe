@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sevenday",
+    "texture": "assets/resources/textures/wrapper/signin.png",
+    "rect": [
+      192,
+      353,
+      111,
+      117
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      111,
+      117
+    ]
+  }
+}

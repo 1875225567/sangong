@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "jiong",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1,
+  "sample": 6,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": "assets/resources/textures/chat/emoji_action_texture_jiong0.png.spriteframe"
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": "assets/resources/textures/chat/emoji_action_texture_jiong1.png.spriteframe"
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": "assets/resources/textures/chat/emoji_action_texture_jiong2.png.spriteframe"
+          },
+          {
+            "frame": 0.5,
+            "value": "assets/resources/textures/chat/emoji_action_texture_jiong3.png.spriteframe"
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": "assets/resources/textures/chat/emoji_action_texture_jiong4.png.spriteframe"
+          },
+          {
+            "frame": 0.8333333333333334,
+            "value": "assets/resources/textures/chat/emoji_action_texture_jiong5.png.spriteframe"
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

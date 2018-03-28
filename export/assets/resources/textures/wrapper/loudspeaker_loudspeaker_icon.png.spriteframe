@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "loudspeaker_icon",
+    "texture": "assets/resources/textures/wrapper/loudspeaker.png",
+    "rect": [
+      217,
+      122,
+      38,
+      37
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      38,
+      37
+    ],
+    "rotated": 1
+  }
+}

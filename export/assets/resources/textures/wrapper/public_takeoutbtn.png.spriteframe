@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "takeoutbtn",
+    "texture": "assets/resources/textures/wrapper/public.png",
+    "rect": [
+      1936,
+      2,
+      220,
+      93
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      220,
+      93
+    ],
+    "rotated": 1
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "touchd",
+    "texture": "assets/resources/textures/wrapper/selfcentre.png",
+    "rect": [
+      467,
+      67,
+      249,
+      42
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      249,
+      42
+    ],
+    "rotated": 1
+  }
+}

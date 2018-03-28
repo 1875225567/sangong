@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "colon",
+    "texture": "assets/resources/textures/wrapper/alms.png",
+    "rect": [
+      154,
+      82,
+      31,
+      81
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      31,
+      81
+    ]
+  }
+}

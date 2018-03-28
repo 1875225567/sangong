@@ -1,0 +1,71 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "belle",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.9333333333333333,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 0,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": "assets/resources/textures/anims/belle/belle_1.spriteframe"
+          },
+          {
+            "frame": 0.06666666666666667,
+            "value": "assets/resources/textures/anims/belle/belle_2.spriteframe"
+          },
+          {
+            "frame": 0.13333333333333333,
+            "value": "assets/resources/textures/anims/belle/belle_3.spriteframe"
+          },
+          {
+            "frame": 0.2,
+            "value": "assets/resources/textures/anims/belle/belle_4.spriteframe"
+          },
+          {
+            "frame": 0.26666666666666666,
+            "value": "assets/resources/textures/anims/belle/belle_5.spriteframe"
+          },
+          {
+            "frame": 0.36666666666666664,
+            "value": "assets/resources/textures/anims/belle/belle_6.spriteframe"
+          },
+          {
+            "frame": 0.5,
+            "value": "assets/resources/textures/anims/belle/belle_7.spriteframe"
+          },
+          {
+            "frame": 0.5666666666666667,
+            "value": "assets/resources/textures/anims/belle/belle_8.spriteframe"
+          },
+          {
+            "frame": 0.6333333333333333,
+            "value": "assets/resources/textures/anims/belle/belle_9.spriteframe"
+          },
+          {
+            "frame": 0.7,
+            "value": "assets/resources/textures/anims/belle/belle_10.spriteframe"
+          },
+          {
+            "frame": 0.7666666666666667,
+            "value": "assets/resources/textures/anims/belle/belle_11.spriteframe"
+          },
+          {
+            "frame": 0.8333333333333334,
+            "value": "assets/resources/textures/anims/belle/belle_12.spriteframe"
+          },
+          {
+            "frame": 0.9,
+            "value": "assets/resources/textures/anims/belle/belle_13.spriteframe"
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "button_pay",
+    "texture": "assets/resources/textures/wrapper/shop.png",
+    "rect": [
+      2,
+      378,
+      160,
+      64
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      160,
+      64
+    ]
+  }
+}

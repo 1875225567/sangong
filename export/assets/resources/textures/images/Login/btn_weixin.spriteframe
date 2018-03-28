@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_weixin",
+    "texture": "assets/resources/textures/images/Login/btn_weixin.png",
+    "rect": [
+      0,
+      1,
+      333,
+      92
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      333,
+      93
+    ]
+  }
+}

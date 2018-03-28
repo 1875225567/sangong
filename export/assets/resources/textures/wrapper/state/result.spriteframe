@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "result",
+    "texture": "assets/resources/textures/wrapper/state/result.png",
+    "rect": [
+      0,
+      0,
+      158,
+      52
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      158,
+      52
+    ]
+  }
+}

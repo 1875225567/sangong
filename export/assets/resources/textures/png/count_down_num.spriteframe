@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "count_down_num",
+    "texture": "assets/resources/textures/png/count_down_num.png",
+    "rect": [
+      1,
+      0,
+      238,
+      32
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      240,
+      32
+    ]
+  }
+}

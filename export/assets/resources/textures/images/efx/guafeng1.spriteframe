@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "guafeng1",
+    "texture": "assets/resources/textures/images/efx/guafeng1.png",
+    "rect": [
+      1,
+      4,
+      228,
+      126
+    ],
+    "offset": [
+      0,
+      -2
+    ],
+    "originalSize": [
+      230,
+      130
+    ]
+  }
+}

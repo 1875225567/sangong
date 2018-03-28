@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_pass",
+    "texture": "assets/resources/textures/images/play_scene.png",
+    "rect": [
+      1013,
+      2,
+      130,
+      126
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      130,
+      126
+    ],
+    "rotated": 1
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "barragelabel",
+    "texture": "assets/resources/textures/wrapper/setting.png",
+    "rect": [
+      2,
+      63,
+      89,
+      51
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      89,
+      51
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gold",
+    "texture": "assets/resources/textures/wrapper/login/gold.png",
+    "rect": [
+      0,
+      0,
+      1122,
+      742
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1122,
+      742
+    ]
+  }
+}

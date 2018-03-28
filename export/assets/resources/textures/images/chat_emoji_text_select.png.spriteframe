@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "emoji_text_select",
+    "texture": "assets/resources/textures/images/chat.png",
+    "rect": [
+      642,
+      315,
+      100,
+      42
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      100,
+      42
+    ],
+    "rotated": 1
+  }
+}

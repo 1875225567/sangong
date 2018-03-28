@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "PopupScene14",
+    "texture": "assets/resources/textures/images/PopupScene.png",
+    "rect": [
+      953,
+      857,
+      228,
+      54
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      228,
+      54
+    ]
+  }
+}

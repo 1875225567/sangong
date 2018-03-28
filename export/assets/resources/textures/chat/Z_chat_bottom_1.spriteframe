@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Z_chat_bottom_1",
+    "texture": "assets/resources/textures/chat/Z_chat_bottom_1.png",
+    "rect": [
+      0,
+      1,
+      77,
+      78
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      77,
+      79
+    ],
+    "capInsets": [
+      20,
+      20,
+      20,
+      20
+    ]
+  }
+}

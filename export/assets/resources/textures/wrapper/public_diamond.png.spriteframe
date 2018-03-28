@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "diamond",
+    "texture": "assets/resources/textures/wrapper/public.png",
+    "rect": [
+      1928,
+      946,
+      40,
+      32
+    ],
+    "offset": [
+      0,
+      -1
+    ],
+    "originalSize": [
+      40,
+      40
+    ]
+  }
+}

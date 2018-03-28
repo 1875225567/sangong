@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "voicelabel",
+    "texture": "assets/resources/textures/wrapper/setting.png",
+    "rect": [
+      2,
+      168,
+      89,
+      49
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      89,
+      49
+    ]
+  }
+}

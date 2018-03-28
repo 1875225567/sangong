@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btncreateroom",
+    "texture": "assets/resources/textures/wrapper/wuziqi.png",
+    "rect": [
+      1865,
+      118,
+      450,
+      173
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      450,
+      173
+    ],
+    "rotated": 1
+  }
+}

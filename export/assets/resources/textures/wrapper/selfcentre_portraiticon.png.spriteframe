@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "portraiticon",
+    "texture": "assets/resources/textures/wrapper/selfcentre.png",
+    "rect": [
+      327,
+      106,
+      112,
+      112
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      112,
+      112
+    ]
+  }
+}

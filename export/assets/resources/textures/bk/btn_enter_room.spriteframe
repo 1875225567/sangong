@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_enter_room",
+    "texture": "assets/resources/textures/bk/btn_enter_room.png",
+    "rect": [
+      0,
+      0,
+      383,
+      159
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      383,
+      159
+    ]
+  }
+}

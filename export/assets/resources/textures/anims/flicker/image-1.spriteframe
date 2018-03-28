@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "image-1",
+    "texture": "assets/resources/textures/anims/flicker/image-1.png",
+    "rect": [
+      0,
+      0,
+      102,
+      102
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      102,
+      102
+    ]
+  }
+}

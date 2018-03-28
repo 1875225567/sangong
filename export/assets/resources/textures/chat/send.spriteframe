@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "send",
+    "texture": "assets/resources/textures/chat/send.png",
+    "rect": [
+      1,
+      1,
+      100,
+      50
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      102,
+      51
+    ]
+  }
+}

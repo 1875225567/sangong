@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn",
+    "texture": "assets/resources/textures/wrapper/record.png",
+    "rect": [
+      0,
+      60,
+      79,
+      80
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      79,
+      80
+    ]
+  }
+}

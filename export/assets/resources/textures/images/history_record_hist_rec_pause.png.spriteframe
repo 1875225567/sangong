@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hist_rec_pause",
+    "texture": "assets/resources/textures/images/history_record.png",
+    "rect": [
+      421,
+      159,
+      48,
+      56
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      48,
+      56
+    ],
+    "rotated": 1
+  }
+}

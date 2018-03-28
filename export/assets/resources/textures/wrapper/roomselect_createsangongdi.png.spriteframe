@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "createsangongdi",
+    "texture": "assets/resources/textures/wrapper/roomselect.png",
+    "rect": [
+      2,
+      360,
+      1059,
+      405
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1059,
+      405
+    ],
+    "rotated": 1
+  }
+}

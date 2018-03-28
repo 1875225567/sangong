@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hist_rec_title_1",
+    "texture": "assets/resources/textures/images/history_record.png",
+    "rect": [
+      208,
+      159,
+      155,
+      42
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      155,
+      42
+    ]
+  }
+}

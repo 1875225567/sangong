@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jiong5",
+    "texture": "assets/resources/textures/chat/emoji_action_texture.png",
+    "rect": [
+      0,
+      735,
+      147,
+      135
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      147,
+      135
+    ],
+    "rotated": 1
+  }
+}

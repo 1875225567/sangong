@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btnOneTimes",
+    "texture": "assets/resources/textures/wrapper/dial.png",
+    "rect": [
+      884,
+      709,
+      215,
+      91
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      215,
+      91
+    ],
+    "rotated": 1
+  }
+}

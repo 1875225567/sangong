@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "play_scene_5",
+    "texture": "assets/resources/textures/images/playScenesc/play_scene_5.png",
+    "rect": [
+      0,
+      0,
+      114,
+      35
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      114,
+      36
+    ]
+  }
+}

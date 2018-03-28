@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shihua2",
+    "texture": "assets/resources/textures/chat/emoji_action_texture.png",
+    "rect": [
+      1263,
+      882,
+      109,
+      116
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      109,
+      116
+    ]
+  }
+}

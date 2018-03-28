@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "wuhanmajiangtitle",
+    "texture": "assets/resources/textures/images/main_scene.png",
+    "rect": [
+      168,
+      1194,
+      318,
+      49
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      318,
+      49
+    ]
+  }
+}

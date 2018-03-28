@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hist_rec_bg",
+    "texture": "assets/resources/textures/images/history_record.png",
+    "rect": [
+      1889,
+      2,
+      139,
+      129
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      139,
+      129
+    ],
+    "rotated": 1
+  }
+}

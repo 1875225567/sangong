@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tips2",
+    "texture": "assets/resources/textures/wrapper/dial.png",
+    "rect": [
+      893,
+      128,
+      354,
+      100
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      354,
+      100
+    ],
+    "rotated": 1
+  }
+}

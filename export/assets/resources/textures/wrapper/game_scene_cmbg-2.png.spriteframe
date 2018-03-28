@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "cmbg-2",
+    "texture": "assets/resources/textures/wrapper/game_scene.png",
+    "rect": [
+      2,
+      1602,
+      126,
+      125
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      126,
+      125
+    ],
+    "rotated": 1
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "rain1",
+    "texture": "assets/resources/textures/images/efx/rain1.png",
+    "rect": [
+      41,
+      27,
+      132,
+      130
+    ],
+    "offset": [
+      2,
+      33
+    ],
+    "originalSize": [
+      210,
+      250
+    ]
+  }
+}

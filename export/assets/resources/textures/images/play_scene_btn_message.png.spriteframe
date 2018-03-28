@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_message",
+    "texture": "assets/resources/textures/images/play_scene.png",
+    "rect": [
+      1565,
+      203,
+      57,
+      51
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      57,
+      51
+    ]
+  }
+}

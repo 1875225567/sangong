@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "roomidbg",
+    "texture": "assets/resources/textures/wrapper/wuziqi.png",
+    "rect": [
+      114,
+      1320,
+      194,
+      123
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      194,
+      123
+    ]
+  }
+}

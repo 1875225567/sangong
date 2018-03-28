@@ -1,0 +1,51 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "huaixiao",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1.3333333333333333,
+  "sample": 6,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": "assets/resources/textures/chat/emoji_action_texture_huaixiao0.png.spriteframe"
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": "assets/resources/textures/chat/emoji_action_texture_huaixiao1.png.spriteframe"
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": "assets/resources/textures/chat/emoji_action_texture_huaixiao2.png.spriteframe"
+          },
+          {
+            "frame": 0.5,
+            "value": "assets/resources/textures/chat/emoji_action_texture_huaixiao4.png.spriteframe"
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": "assets/resources/textures/chat/emoji_action_texture_huaixiao5.png.spriteframe"
+          },
+          {
+            "frame": 0.8333333333333334,
+            "value": "assets/resources/textures/chat/emoji_action_texture_huaixiao6.png.spriteframe"
+          },
+          {
+            "frame": 1,
+            "value": "assets/resources/textures/chat/emoji_action_texture_huaixiao7.png.spriteframe"
+          },
+          {
+            "frame": 1.1666666666666667,
+            "value": "assets/resources/textures/chat/emoji_action_texture_huaixiao8.png.spriteframe"
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

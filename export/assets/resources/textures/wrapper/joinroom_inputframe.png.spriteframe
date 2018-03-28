@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "inputframe",
+    "texture": "assets/resources/textures/wrapper/joinroom.png",
+    "rect": [
+      2,
+      488,
+      518,
+      79
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      518,
+      79
+    ],
+    "rotated": 1
+  }
+}

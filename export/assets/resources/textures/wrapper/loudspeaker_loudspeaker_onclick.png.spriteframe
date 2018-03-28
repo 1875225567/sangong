@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "loudspeaker_onclick",
+    "texture": "assets/resources/textures/wrapper/loudspeaker.png",
+    "rect": [
+      165,
+      128,
+      121,
+      50
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      121,
+      50
+    ],
+    "rotated": 1
+  }
+}

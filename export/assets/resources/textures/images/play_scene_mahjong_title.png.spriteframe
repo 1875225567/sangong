@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mahjong_title",
+    "texture": "assets/resources/textures/images/play_scene.png",
+    "rect": [
+      1224,
+      2,
+      484,
+      44
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      484,
+      44
+    ]
+  }
+}

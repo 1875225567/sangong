@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "adj",
+    "texture": "assets/resources/textures/voice/adj.png",
+    "rect": [
+      13,
+      5,
+      36,
+      50
+    ],
+    "offset": [
+      1,
+      0
+    ],
+    "originalSize": [
+      60,
+      60
+    ]
+  }
+}

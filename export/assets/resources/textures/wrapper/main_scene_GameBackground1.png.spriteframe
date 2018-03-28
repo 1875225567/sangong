@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "GameBackground1",
+    "texture": "assets/resources/textures/wrapper/main_scene.png",
+    "rect": [
+      2,
+      70,
+      1334,
+      750
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1334,
+      750
+    ],
+    "rotated": 1
+  }
+}

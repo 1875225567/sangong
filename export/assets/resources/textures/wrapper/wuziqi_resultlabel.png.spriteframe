@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "resultlabel",
+    "texture": "assets/resources/textures/wrapper/wuziqi.png",
+    "rect": [
+      151,
+      1741,
+      117,
+      59
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      117,
+      59
+    ],
+    "rotated": 1
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jianbiandi",
+    "texture": "assets/resources/textures/wrapper/bank.png",
+    "rect": [
+      327,
+      524,
+      893,
+      142
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      893,
+      142
+    ],
+    "rotated": 1
+  }
+}

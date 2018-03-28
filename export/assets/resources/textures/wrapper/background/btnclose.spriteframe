@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btnclose",
+    "texture": "assets/resources/textures/wrapper/background/btnclose.png",
+    "rect": [
+      0,
+      0,
+      55,
+      55
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      55,
+      55
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "createsangongselect",
+    "texture": "assets/resources/textures/wrapper/roomselect.png",
+    "rect": [
+      2,
+      2,
+      987,
+      356
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      987,
+      356
+    ]
+  }
+}

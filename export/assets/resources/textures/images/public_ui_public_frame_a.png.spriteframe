@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "public_frame_a",
+    "texture": "assets/resources/textures/images/public_ui.png",
+    "rect": [
+      146,
+      2,
+      208,
+      209
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      208,
+      209
+    ],
+    "capInsets": [
+      50,
+      50,
+      50,
+      50
+    ]
+  }
+}

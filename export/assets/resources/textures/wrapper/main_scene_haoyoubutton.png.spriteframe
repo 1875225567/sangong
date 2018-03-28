@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "haoyoubutton",
+    "texture": "assets/resources/textures/wrapper/main_scene.png",
+    "rect": [
+      2,
+      1406,
+      343,
+      399
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      343,
+      399
+    ]
+  }
+}

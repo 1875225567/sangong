@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "yaoqing",
+    "texture": "assets/resources/textures/wrapper/wuziqi.png",
+    "rect": [
+      114,
+      974,
+      258,
+      344
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      258,
+      344
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "agreement",
+    "texture": "assets/resources/textures/wrapper/login.png",
+    "rect": [
+      1408,
+      1445,
+      211,
+      43
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      211,
+      43
+    ]
+  }
+}

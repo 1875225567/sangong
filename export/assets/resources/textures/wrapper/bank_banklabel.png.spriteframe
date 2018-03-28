@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "banklabel",
+    "texture": "assets/resources/textures/wrapper/bank.png",
+    "rect": [
+      263,
+      1132,
+      206,
+      58
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      206,
+      58
+    ],
+    "rotated": 1
+  }
+}

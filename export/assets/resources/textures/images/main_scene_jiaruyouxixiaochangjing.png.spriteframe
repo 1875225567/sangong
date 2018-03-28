@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jiaruyouxixiaochangjing",
+    "texture": "assets/resources/textures/images/main_scene.png",
+    "rect": [
+      168,
+      443,
+      485,
+      398
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      485,
+      398
+    ]
+  }
+}

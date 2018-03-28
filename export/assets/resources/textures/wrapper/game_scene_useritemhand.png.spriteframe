@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "useritemhand",
+    "texture": "assets/resources/textures/wrapper/game_scene.png",
+    "rect": [
+      544,
+      1999,
+      46,
+      46
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      46,
+      46
+    ]
+  }
+}

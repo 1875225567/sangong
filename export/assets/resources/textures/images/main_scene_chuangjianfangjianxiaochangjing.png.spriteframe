@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "chuangjianfangjianxiaochangjing",
+    "texture": "assets/resources/textures/images/main_scene.png",
+    "rect": [
+      168,
+      2,
+      502,
+      439
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      502,
+      439
+    ]
+  }
+}

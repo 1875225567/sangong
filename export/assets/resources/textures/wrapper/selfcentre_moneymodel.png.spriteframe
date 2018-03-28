@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "moneymodel",
+    "texture": "assets/resources/textures/wrapper/selfcentre.png",
+    "rect": [
+      327,
+      2,
+      181,
+      30
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      181,
+      30
+    ]
+  }
+}
